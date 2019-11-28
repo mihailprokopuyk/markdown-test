@@ -24,7 +24,7 @@
 
 **Самый быстрый и простой способ:**
 
-1. Перейти на вкладку [***CI/CD -> pipelines***][https://git.zingaya.com/tests/voxengine_AT/pipelines] 
+1. Перейти на вкладку [***CI/CD -> pipelines***](https://git.zingaya.com/tests/voxengine_AT/pipelines)
 
 2. Нажать на ***Run Pipeline***
 
