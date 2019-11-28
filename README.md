@@ -56,7 +56,7 @@
 
 3. Выполнить команду:
 
-   1. ***yarn test-prod***: для тестирования окружения productionЦ
+   1. ***yarn test-prod***: для тестирования окружения production
    2. ***yarn test-internal:*** для тестирования окружения internal
 
 4. Получить отчет:
